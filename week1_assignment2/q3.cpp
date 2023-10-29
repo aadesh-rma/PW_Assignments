@@ -1,4 +1,5 @@
 //predict the output
+//predicted it correctly
 
 #include <iostream>
 using namespace std;

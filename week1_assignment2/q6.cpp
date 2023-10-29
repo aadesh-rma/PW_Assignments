@@ -1,4 +1,6 @@
 //Find the output of the below code
+//predicted it correctly
+
 #include <iostream>
 using namespace std;
 int main()
